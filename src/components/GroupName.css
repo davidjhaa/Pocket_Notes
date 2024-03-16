@@ -1,0 +1,16 @@
+.circle{
+    transform: translateX(-16px);
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+}
+.name{
+    font-size: 21px;
+    
+}
+.gnamelabel{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    transform: translateX(62px);
+}
